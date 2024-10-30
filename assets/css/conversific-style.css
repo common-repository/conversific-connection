@@ -1,0 +1,19 @@
+#requirements {
+    position: relative;
+    padding: .7em 2em 1em;
+    min-width: 255px;
+    margin: 30px 15px;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    background: #fff;
+}
+
+.copied-text {
+    display: inline-block;
+    margin-left: 10px;
+    color: green;
+}
+
+.hidden-fields {
+    display: none;
+}
